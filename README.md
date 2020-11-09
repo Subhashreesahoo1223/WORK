@@ -16,8 +16,11 @@ have all these libraries installed.
 
 ##########**Content**-##########
 1-Intro to data analysis
+
 2-Statistics
+
 3-Data Extraction and Wrangling
+
 4-Data Visualization
 
 **Some sample projects description---**
