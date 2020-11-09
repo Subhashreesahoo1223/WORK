@@ -1,6 +1,6 @@
 # WORK
 ## **Data Analytics Projects**
-##### ** A/B Testing Marketing Promotions**
+##### **A/B Testing Marketing Promotions**
 *Which promotion was the most effective?*
 
 Scenario:
