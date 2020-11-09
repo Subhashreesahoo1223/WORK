@@ -1,5 +1,6 @@
 # WORK
 ## **Data Analytics Projects**
+### ***Project -1***
 ### **A/B Testing Marketing Promotions**
 *Which promotion was the most effective?*
 
@@ -22,3 +23,61 @@ The description of the data set: Our data set consists of 548 entries including:
 6-Market size: there are three types of market size: small, medium and large.
 
 7-Week: One of four weeks when the promotions were run (1–4).
+
+### ***Project -2***
+### **Job Analysis**
+
+   Amidst the pandemic many people lost their jobs, with this dataset it is possible to hone the job search so that more people in need can find employment.
+This dataset was created by picklesueat and contains more than 2000 job listing for data analyst positions, with features such as:
+
+Salary Estimate
+Location
+Company Rating
+Job Description
+and more
+**How to use**
+
+ 1-Find the best jobs by salary and company rating
+ 
+ 2-Explore skills required in job descriptions
+ 
+ 3-Predict salary based on industry, location, company revenue
+ 
+ 
+ 
+ 
+### ***Project -3***
+### ** Retail Product Sales Analytics Analysis**
+
+***About out Data***
+Company - UK-based and registered non-store online retail
+
+Products for selling - Mainly all-occasion gifts
+
+Customers - Most are wholesalers (local or international)
+
+Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year)
+
+****Results obtained from Exploratory Data Analysis (EDA)***
+The customer with the highest number of orders comes from the United Kingdom (UK)
+The customer with the highest money spent on purchases comes from Netherlands
+The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below:
+United Kingdom
+Germany
+France
+Ireland (EIRE)
+Spain
+As the company receives the highest number of orders from customers in the UK (since it is a UK-based company), customers in the UK spend the most on their purchases. Therefore, the TOP 5 countries (including UK) that spend the most money on purchases are as below:
+United Kingdom
+Netherlands
+Ireland (EIRE)
+Germany
+France
+November 2011 has the highest sales
+The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December
+There are no transactions on Saturday between 1st Dec 2010 - 9th Dec 2011
+The number of orders received by the company tends to increases from Monday to Thursday and decrese afterward
+The company receives the highest number of orders at 12:00pm
+Possibly most customers made purchases during lunch hour between 12:00pm - 2:00pm
+The company tends to give out FREE items for purchases occasionally each month (Except June 2011)
+However, it is not clear what factors contribute to giving out the FREE items to the particular customers
