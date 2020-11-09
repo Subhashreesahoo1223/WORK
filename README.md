@@ -3,6 +3,25 @@
 
 These are data analysis projects that I've worked on using Python, SQL and excel, utilizing visualization and various statistical analysis techniques to pull insights from data sets.
 
+#########**Libraries :**######## 
+* All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn. Please make sure you
+have all these libraries installed. 
+
+**1-Subjects Covered:**
+* Anaconda: Learn to use Anaconda to manage packages and environments for use with Python.
+* Jupyter Notebook: Learn to use this open-source web application .
+* Data Analysis Process.
+* NumPy for 1 and 2D Data.
+* Pandas Series and Dataframes.
+
+##########**Content**-##########
+1-Intro to data analysis
+2-Statistics
+3-Data Extraction and Wrangling
+4-Data Visualization
+
+**Some sample projects description---**
+
 ### ***Project -1***
 ### **A/B Testing Marketing Promotions**
 *Which promotion was the most effective?*
