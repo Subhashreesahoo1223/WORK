@@ -1,5 +1,8 @@
 # WORK
 ## **Data Analytics Projects**
+
+These are data analysis projects that I've worked on using Python, SQL and excel, utilizing visualization and various statistical analysis techniques to pull insights from data sets.
+
 ### ***Project -1***
 ### **A/B Testing Marketing Promotions**
 *Which promotion was the most effective?*
